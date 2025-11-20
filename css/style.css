@@ -18,7 +18,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background-color: #DCC9B6;
+  background-color: #004085;
   color: white;
   position: sticky;
   top: 0;
@@ -44,7 +44,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #615345;
+  color: #007bff;
 }
 
 /* Hero Section */
@@ -55,7 +55,7 @@ nav ul li a:hover {
   align-items: center;
   text-align: center;
   height: 100vh;
-  background: url("/images/WhatsApp\ Image\ 2025-11-20\ at\ 02.22.09_06faa12f.jpg") no-repeat center center/cover;
+  background: url("images/P1.jpg") no-repeat center center/cover;
   color: rgb(255, 255, 255);
 }
 
@@ -65,7 +65,7 @@ nav ul li a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #a08972;
+  background-color: #0A0A0A;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -87,7 +87,7 @@ nav ul li a:hover {
 .hero button {
   padding: 15px 30px;
   font-size: 1rem;
-  background-color: #655749;
+  background-color: #00be98;
   border: none;
   border-radius: 5px;
   color: white;
@@ -96,7 +96,7 @@ nav ul li a:hover {
 }
 
 .hero button:hover {
-  background-color: #ceb296;
+  background-color: #d12746;
 }
 
 /* Sections */
@@ -113,7 +113,7 @@ section {
 /* About Section */
 .about h2 {
   font-size: 2.5rem;
-  color: #6e5a4e;
+  color: #004085;
   margin-bottom: 20px;
 }
 
@@ -125,7 +125,7 @@ section {
 
 /* Grid for Skills  */
 h2{
-  color: #6e5a4e;
+  color: #004085;
 }
 .grid {
   display: grid;
@@ -139,17 +139,17 @@ h2{
   background-color: white;
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0 5px 15px #6e5a4e;
+  box-shadow: 0 5px 15px #004085;
 }
 
 .skill h3,
 .achievement h3 {
-  color: #b59784;
+  color: #004085;
   margin-bottom: 10px;
 }
 /* Footer */
 footer {
-  background-color: #d1b79c;
+  background-color: #0A0A0A;
   color: white;
   padding: 20px;
 }
@@ -160,7 +160,7 @@ footer {
 }
 
 .footer a:hover {
-  color: #7b6958;
+  color: #004085;
 }
 
 .footer-top {
@@ -185,7 +185,7 @@ footer {
   display: inline-block;
   padding: 15px 35px;
   font-size: 1rem;
-  background-color: #655749;
+  background-color: #00be98;
   color: white;
   border-radius: 5px;
   text-decoration: none;
@@ -193,7 +193,7 @@ footer {
 }
 
 .footer-top .btn-consult:hover {
-  background-color: #9c7e60;
+  background-color: #d12746;
 }
 
 .footer-content {
@@ -216,7 +216,7 @@ footer {
 .footer-about h3,
 .footer-contact h4,
 .footer-social-hours h4 {
-  color: #6e5a4e;
+  color: #248eff;
   margin-bottom: 10px;
 }
 
@@ -246,7 +246,7 @@ footer {
 .footer-bottom {
   text-align: center;
   margin-top: 60px;
-  color: #4e4037;
+  color: #007bff;
 }
 
 @media (max-width: 768px) {
